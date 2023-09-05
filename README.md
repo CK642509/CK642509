@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### Group Project
+- [Rabbitfund 倍而兔群眾募資平台](https://rabbitfund-frontend.vercel.app/)
+  - 有完整的[前端](https://github.com/rabbitfund/rabbitfund_frontend)與[後端](https://github.com/rabbitfund/rabbitfund_backend)
+  - Vue3 + Typescript + Node.js + Express
+  - 六角學院 2023 企業專題班
+
 ### Respository Introduction
 - [LOL Champion List App](https://github.com/CK642509/lol_champion_list_app)
     - Vue.js + Electron
