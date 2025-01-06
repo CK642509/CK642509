@@ -11,11 +11,6 @@
   - 六角學院 2023 企業專題班 ([個人訪談連結](https://www.hexschool.com/2023/10/24/2023-10-24-overcome-weakness/))
 
 ### Respository Introduction
-- [LOL Champion List App](https://github.com/CK642509/lol_champion_list_app)
-    - Vue.js + Electron
-    - Desktop APP
-    - 個人英雄聯盟紀錄圖鑑
-
 - [Facebook Crawler](https://github.com/CK642509/Facebook_Crawler)
     - Python Selenium
     - 用來確認 FB 社團 PO 文內是否有免費便當
