@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### iThome 鐵人賽
+- 2024 **[Python 組佳作]** 用 Python 打造你的 Discord BOT ([文章連結](https://ithelp.ithome.com.tw/users/20162280/ironman/7781))
+- 2023 **[Software Development 鐵人鍊成]** FastAPI 開發筆記：從新手到專家的成長之路 ([文章連結](https://ithelp.ithome.com.tw/users/20162280/ironman/6767))
+
 ### Group Project
 - [Rabbitfund 倍而兔群眾募資平台](https://rabbitfund-frontend.vercel.app/)
   - 有完整的[前端](https://github.com/rabbitfund/rabbitfund_frontend)與[後端](https://github.com/rabbitfund/rabbitfund_backend)
