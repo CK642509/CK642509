@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ### iThome 鐵人賽
+- 2025 **[Software Development 組]** 用 FastAPI 打造你的 AI 服務 ([文章連結](https://ithelp.ithome.com.tw/users/20162280/ironman/8477))
+- 2025 **[Rust 組]** 用 Tauri 打造你的應用程式 ([文章連結](https://ithelp.ithome.com.tw/users/20162280/ironman/8473))
 - 2024 **[Python 組 - 佳作]** 用 Python 打造你的 Discord BOT ([文章連結](https://ithelp.ithome.com.tw/users/20162280/ironman/7781))
 - 2023 **[Software Development 組 - 鐵人鍊成]** FastAPI 開發筆記：從新手到專家的成長之路 ([文章連結](https://ithelp.ithome.com.tw/users/20162280/ironman/6767))
 
@@ -11,6 +13,19 @@
   - 六角學院 2023 企業專題班 ([個人訪談連結](https://www.hexschool.com/2023/10/24/2023-10-24-overcome-weakness/))
 
 ### Respository Introduction
+
+- [Discord Bot for Arknights](https://github.com/CK642509/DiscordBOT-Arknights-V2)
+    - Python discord.py
+    - 用來自動計算明日方舟線索交換最佳化做法
+    - 由 Yao 開發最佳化演算法
+
+- Slidev 簡報分享
+  - [用 Python 打造高互動性的 Discord BOT](https://github.com/CK642509/slidev_discord_bot) ([2025 COSCUP](https://coscup.org/2025/sessions/X8STXD))
+  - [《React 思維進化》讀書會 2-7 ~ 2-9](https://github.com/CK642509/slidev_react)
+<details>
+
+<summary>其他早期專案</summary>
+
 - [Facebook Crawler](https://github.com/CK642509/Facebook_Crawler)
     - Python Selenium
     - 用來確認 FB 社團 PO 文內是否有免費便當
@@ -29,6 +44,8 @@
 - [Oriental fruit fly tracking](https://github.com/CK642509/Oriental_fruit_fly_tracking)
     - Python OpenCV
     - 計算果實蠅在特定區域內的停留時間，並標示移動距離
+
+</details>
 
 
 <!--
