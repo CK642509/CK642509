@@ -22,6 +22,7 @@
 - Slidev 簡報分享
   - [用 Python 打造高互動性的 Discord BOT](https://github.com/CK642509/slidev_discord_bot) ([2025 COSCUP](https://coscup.org/2025/sessions/X8STXD))
   - [《React 思維進化》讀書會 2-7 ~ 2-9](https://github.com/CK642509/slidev_react)
+
 <details>
 
 <summary>其他早期專案</summary>
@@ -44,6 +45,23 @@
 - [Oriental fruit fly tracking](https://github.com/CK642509/Oriental_fruit_fly_tracking)
     - Python OpenCV
     - 計算果實蠅在特定區域內的停留時間，並標示移動距離
+
+</details>
+
+<details>
+
+<summary> Publications (生醫領域) </summary>
+
+### An antibiotic concentration gradient microfluidic device integrating surface-enhanced Raman spectroscopy for multiplex antimicrobial susceptibility testing
+
+**`Lin, S. J.`**, Chao, P. H., Cheng, H. W., Wang, J. K., Wang, Y. L., Han, Y. Y., & Huang, N. T.
+   *Lab on a Chip 22.9 (2022): 1805-1814*
+
+> 這是我在碩士期間的主要研究，開發了一種結合表面增強拉曼散射 (SERS) 的微流體晶片。它可以自動建立抗生素濃度梯度，並且能在 5 小時內於單一晶片上完成細菌的抗藥性檢測 (AST)，大幅提升檢測效率並減少樣本用量 (20 μL)。
+
+![](https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D2LC00012A&imageInfo.ImageIdentifier.Year=2022)
+
+我的論文都有收錄在[這個專案](https://github.com/CK642509/publications)內，歡迎參考~
 
 </details>
 
