@@ -25,7 +25,7 @@
 
 <details>
 
-<summary>其他早期專案</summary>
+<summary><h4>其他早期專案</h4></summary>
 
 - [Facebook Crawler](https://github.com/CK642509/Facebook_Crawler)
     - Python Selenium
@@ -50,7 +50,7 @@
 
 <details>
 
-<summary> Publications (生醫領域) </summary>
+<summary><h4> Publications (生醫領域) </h4></summary>
 
 ### An antibiotic concentration gradient microfluidic device integrating surface-enhanced Raman spectroscopy for multiplex antimicrobial susceptibility testing
 
