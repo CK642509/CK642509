@@ -15,9 +15,14 @@
 ### Respository Introduction
 
 - [Discord Bot for Arknights](https://github.com/CK642509/DiscordBOT-Arknights-V2)
-    - Python discord.py
-    - 用來自動計算明日方舟線索交換最佳化做法
-    - 由 Yao 開發最佳化演算法
+  - Python discord.py
+  - 用來自動計算明日方舟線索交換最佳化做法
+  - 由 Yao 開發最佳化演算法
+ 
+- [n8n Workflows](https://github.com/CK642509/n8n-workflows)
+  - 存放 n8n 2.x 環境設定與 workflows
+  - 目前的 workflows
+    - 加密薪資單產生器
 
 - Slidev 簡報分享
   - [用 Python 打造高互動性的 Discord BOT](https://github.com/CK642509/slidev_discord_bot) ([2025 COSCUP](https://coscup.org/2025/sessions/X8STXD))
