@@ -24,6 +24,10 @@
   - 目前的 workflows
     - 加密薪資單產生器
 
+- [n8n-nodes-pdf-muhammara](https://github.com/CK642509/n8n-nodes-pdf-muhammara)
+  - n8n 自定義節點 (custom node)
+  - 可輕鬆完成 PDF 加密
+
 - Slidev 簡報分享
   - [用 Python 打造高互動性的 Discord BOT](https://github.com/CK642509/slidev_discord_bot) ([2025 COSCUP](https://coscup.org/2025/sessions/X8STXD))
   - [《React 思維進化》讀書會 2-7 ~ 2-9](https://github.com/CK642509/slidev_react)
