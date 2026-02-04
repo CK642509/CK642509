@@ -9,7 +9,7 @@
 ### Group Project
 - [Rabbitfund 倍而兔群眾募資平台](https://rabbitfund-frontend.vercel.app/)
   - 有完整的[前端](https://github.com/rabbitfund/rabbitfund_frontend)與[後端](https://github.com/rabbitfund/rabbitfund_backend)
-  - Vue3 + Typescript + Node.js + Express
+  - Nuxt3 + Express + TypeScript + MongoDB
   - 六角學院 2023 企業專題班 ([個人訪談連結](https://www.hexschool.com/2023/10/24/2023-10-24-overcome-weakness/))
 
 ### Respository Introduction
