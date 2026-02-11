@@ -1,10 +1,13 @@
 ### Hi there 👋
 
 ### iThome 鐵人賽
-- 2025 **`Software Development`** 用 FastAPI 打造你的 AI 服務 ([文章連結](https://ithelp.ithome.com.tw/users/20162280/ironman/8477))
-- 2025 **`Rust`** 用 Tauri 打造你的應用程式 ([文章連結](https://ithelp.ithome.com.tw/users/20162280/ironman/8473))
-- 2024 **`Python`** 用 Python 打造你的 Discord BOT (🏆佳作) ([文章連結](https://ithelp.ithome.com.tw/users/20162280/ironman/7781))
-- 2023 **`Software Development`** FastAPI 開發筆記：從新手到專家的成長之路 ([文章連結](https://ithelp.ithome.com.tw/users/20162280/ironman/6767))
+- 2025 - **`Software Development`** 用 FastAPI 打造你的 AI 服務 ([文章連結](https://ithelp.ithome.com.tw/users/20162280/ironman/8477))
+- 2025 - **`Rust`** 用 Tauri 打造你的應用程式 ([文章連結](https://ithelp.ithome.com.tw/users/20162280/ironman/8473))
+- 2024 - **`Python`** 用 Python 打造你的 Discord BOT (🏆佳作) ([文章連結](https://ithelp.ithome.com.tw/users/20162280/ironman/7781))
+- 2023 - **`Software Development`** FastAPI 開發筆記：從新手到專家的成長之路 ([文章連結](https://ithelp.ithome.com.tw/users/20162280/ironman/6767))
+
+### iThome 鐵人講堂
+- 2025 - 用 Python 打造高互動性的 Discord BOT ([影片連結](https://itplus.ithome.com.tw/webinar-page/264))
 
 ### Group Project
 - [Rabbitfund 倍而兔群眾募資平台](https://rabbitfund-frontend.vercel.app/)
