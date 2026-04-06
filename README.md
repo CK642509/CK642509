@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I'm John.
+
+## Skills
+
+| Frontend | [![My Frontend Skills](https://skillicons.dev/icons?i=html,css,js,typescript,vue,vuetify,electron,tauri&theme=light)](https://skillicons.dev) |
+| --- | --- |
+
+| Backend | [![My Backend Skills](https://skillicons.dev/icons?i=python,fastapi,nodejs,express,docker,gcp,firebase&theme=light)](https://skillicons.dev) |
+| --- | --- |
+
+## Technical Writing & Projects
+
 ### iThome 鐵人賽
 - 2025 - **`Software Development`** 用 FastAPI 打造你的 AI 服務 ([文章連結](https://ithelp.ithome.com.tw/users/20162280/ironman/8477))
 - 2025 - **`Rust`** 用 Tauri 打造你的應用程式 ([文章連結](https://ithelp.ithome.com.tw/users/20162280/ironman/8473))
